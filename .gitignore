@@ -1,0 +1,14 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+
+.vscode/.provider_cache/
+.vscode/ipch/
+.vscode/.browse.vc.db
+.vscode/cmake-build-*/
+
+.DS_Store
+Thumbs.db
+
+*.env
+private_config.h
